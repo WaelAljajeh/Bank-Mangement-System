@@ -1,0 +1,6 @@
+C:\Users\Laptop Home\Desktop\wael\C# controls\DataAccessLayer_BankProject\obj\Debug\DataAccessLayer_BankProject.csproj.AssemblyReference.cache
+C:\Users\Laptop Home\Desktop\wael\C# controls\DataAccessLayer_BankProject\obj\Debug\DataAccessLayer_BankProject.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Home\Desktop\wael\C# controls\DataAccessLayer_BankProject\bin\Debug\DataAccessLayer_BankProject.dll
+C:\Users\Laptop Home\Desktop\wael\C# controls\DataAccessLayer_BankProject\bin\Debug\DataAccessLayer_BankProject.pdb
+C:\Users\Laptop Home\Desktop\wael\C# controls\DataAccessLayer_BankProject\obj\Debug\DataAccessLayer_BankProject.dll
+C:\Users\Laptop Home\Desktop\wael\C# controls\DataAccessLayer_BankProject\obj\Debug\DataAccessLayer_BankProject.pdb

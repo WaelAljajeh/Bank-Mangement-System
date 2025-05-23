@@ -1,0 +1,903 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B95FAB7B-3A49-4936-A635-BBF5276DB54D}|..\\BussinessLayer_BankProject\\BussinessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\bussinesslayer_bankproject\\clsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95FAB7B-3A49-4936-A635-BBF5276DB54D}|..\\BussinessLayer_BankProject\\BussinessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\bussinesslayer_bankproject\\clsuserlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A8638-4827-4140-9186-11006C631EA2}|..\\DataAccessLayer_BankProject\\DataAccessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\dataaccesslayer_bankproject\\clsuserlogsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A8638-4827-4140-9186-11006C631EA2}|..\\DataAccessLayer_BankProject\\DataAccessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\dataaccesslayer_bankproject\\clsaccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A8638-4827-4140-9186-11006C631EA2}|..\\DataAccessLayer_BankProject\\DataAccessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\dataaccesslayer_bankproject\\clsdataaccessbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95FAB7B-3A49-4936-A635-BBF5276DB54D}|..\\BussinessLayer_BankProject\\BussinessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\bussinesslayer_bankproject\\clsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clsanimatetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:clsanimatetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formloginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formloginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formloginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formloginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clstrialtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:clstrialtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clscurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:clscurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95FAB7B-3A49-4936-A635-BBF5276DB54D}|..\\BussinessLayer_BankProject\\BussinessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\bussinesslayer_bankproject\\clsbanksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formcusomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formcusomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formcusomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formcusomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A8638-4827-4140-9186-11006C631EA2}|..\\DataAccessLayer_BankProject\\DataAccessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\dataaccesslayer_bankproject\\clspersondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95FAB7B-3A49-4936-A635-BBF5276DB54D}|..\\BussinessLayer_BankProject\\BussinessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\bussinesslayer_bankproject\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95FAB7B-3A49-4936-A635-BBF5276DB54D}|..\\BussinessLayer_BankProject\\BussinessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\bussinesslayer_bankproject\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A8638-4827-4140-9186-11006C631EA2}|..\\DataAccessLayer_BankProject\\DataAccessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\dataaccesslayer_bankproject\\clsuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95FAB7B-3A49-4936-A635-BBF5276DB54D}|..\\BussinessLayer_BankProject\\BussinessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\bussinesslayer_bankproject\\clscurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formcurrencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formcurrencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formcurrencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formcurrencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A8638-4827-4140-9186-11006C631EA2}|..\\DataAccessLayer_BankProject\\DataAccessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\dataaccesslayer_bankproject\\clscurrencydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formshowcurrecieslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formshowcurrecieslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formshowcurrecieslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formshowcurrecieslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formwithdrawdepositconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formwithdrawdepositconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formtrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formtrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formmainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formmainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formmangeusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formmangeusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formmangeusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formmangeusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formuserlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formuserlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A8638-4827-4140-9186-11006C631EA2}|..\\DataAccessLayer_BankProject\\DataAccessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\dataaccesslayer_bankproject\\clsclientdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formuserlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formuserlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10A8638-4827-4140-9186-11006C631EA2}|..\\DataAccessLayer_BankProject\\DataAccessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\dataaccesslayer_bankproject\\clstransactiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95FAB7B-3A49-4936-A635-BBF5276DB54D}|..\\BussinessLayer_BankProject\\BussinessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\bussinesslayer_bankproject\\clstransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formtranslogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formtranslogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formtransactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formtransactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formtranslogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formtranslogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formtransactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formtransactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formtrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formtrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formwithdrawdepositconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formwithdrawdepositconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formwithdrawdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formwithdrawdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formwithdrawdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formwithdrawdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\formuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:formuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clsvalidtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE0676-9513-469A-B575-958CD2B937B7}|PresentationLayerBank_Mangment_System.csproj|solutionrelative:clsvalidtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95FAB7B-3A49-4936-A635-BBF5276DB54D}|..\\BussinessLayer_BankProject\\BussinessLayer_BankProject.csproj|c:\\users\\laptop home\\desktop\\wael\\c# controls\\bussinesslayer_bankproject\\clsenryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsAccount.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer_BankProject\\clsAccount.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsAccount.cs",
+              "RelativeToolTip": "..\\BussinessLayer_BankProject\\clsAccount.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:56:30.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsAnimateText.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clsAnimateText.cs",
+              "RelativeDocumentMoniker": "clsAnimateText.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clsAnimateText.cs",
+              "RelativeToolTip": "clsAnimateText.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwDUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:29:30.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormLoginUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormLoginUser.cs",
+              "RelativeDocumentMoniker": "FormLoginUser.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormLoginUser.cs [Design]",
+              "RelativeToolTip": "FormLoginUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:05:41.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsUserLogs.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsUserLogs.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer_BankProject\\clsUserLogs.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsUserLogs.cs",
+              "RelativeToolTip": "..\\BussinessLayer_BankProject\\clsUserLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:50:10.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsClient.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsClient.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer_BankProject\\clsClient.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsClient.cs",
+              "RelativeToolTip": "..\\BussinessLayer_BankProject\\clsClient.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:29:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDataAccessBank.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsDataAccessBank.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_BankProject\\clsDataAccessBank.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsDataAccessBank.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_BankProject\\clsDataAccessBank.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:27:59.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormLoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormLoginUser.cs",
+              "RelativeDocumentMoniker": "FormLoginUser.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormLoginUser.cs",
+              "RelativeToolTip": "FormLoginUser.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAWwCsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:11:30.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsAccountDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsAccountDAL.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_BankProject\\clsAccountDAL.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsAccountDAL.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_BankProject\\clsAccountDAL.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAcwL8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:54:02.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsUserLogsDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsUserLogsDAL.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_BankProject\\clsUserLogsDAL.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsUserLogsDAL.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_BankProject\\clsUserLogsDAL.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAD4v08AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:51:48.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsTrialTimer.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clsTrialTimer.cs",
+              "RelativeDocumentMoniker": "clsTrialTimer.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clsTrialTimer.cs",
+              "RelativeToolTip": "clsTrialTimer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAlwDEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:56:28.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsCurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clsCurrentUser.cs",
+              "RelativeDocumentMoniker": "clsCurrentUser.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clsCurrentUser.cs",
+              "RelativeToolTip": "clsCurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:11:42.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsBankSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsBankSystem.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer_BankProject\\clsBankSystem.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsBankSystem.cs",
+              "RelativeToolTip": "..\\BussinessLayer_BankProject\\clsBankSystem.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwHMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:51:14.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormClientInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormClientInfo.cs",
+              "RelativeDocumentMoniker": "FormClientInfo.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormClientInfo.cs [Design]",
+              "RelativeToolTip": "FormClientInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:50:49.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormCusomers.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormCusomers.cs",
+              "RelativeDocumentMoniker": "FormCusomers.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormCusomers.cs",
+              "RelativeToolTip": "FormCusomers.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:17:48.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormAddAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormAddAccount.cs",
+              "RelativeDocumentMoniker": "FormAddAccount.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormAddAccount.cs [Design]",
+              "RelativeToolTip": "FormAddAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:28:28.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormAddAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormAddAccount.cs",
+              "RelativeDocumentMoniker": "FormAddAccount.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormAddAccount.cs",
+              "RelativeToolTip": "FormAddAccount.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:28:46.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormCusomers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormCusomers.cs",
+              "RelativeDocumentMoniker": "FormCusomers.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormCusomers.cs [Design]",
+              "RelativeToolTip": "FormCusomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:44:45.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsPersonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsPersonDAL.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_BankProject\\clsPersonDAL.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsPersonDAL.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_BankProject\\clsPersonDAL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:20:32.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormMainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "FormMainMenu.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormMainMenu.cs [Design]",
+              "RelativeToolTip": "FormMainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:35:53.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer_BankProject\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsPerson.cs",
+              "RelativeToolTip": "..\\BussinessLayer_BankProject\\clsPerson.cs",
+              "ViewState": "AgIAADkAAAAAzszMzMwMwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:07:09.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer_BankProject\\clsUser.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsUser.cs",
+              "RelativeToolTip": "..\\BussinessLayer_BankProject\\clsUser.cs",
+              "ViewState": "AgIAADgAAAAAzMzMzMwcwGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:42:11.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormAddEditUser.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormAddEditUser.cs",
+              "RelativeDocumentMoniker": "FormAddEditUser.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormAddEditUser.cs",
+              "RelativeToolTip": "FormAddEditUser.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAcwAcBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:28:25.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormMainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "FormMainMenu.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormMainMenu.cs",
+              "RelativeToolTip": "FormMainMenu.cs",
+              "ViewState": "AgIAABcAAAAAmpmZmZkdwFsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:37:37.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsUserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsUserDAL.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_BankProject\\clsUserDAL.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsUserDAL.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_BankProject\\clsUserDAL.cs",
+              "ViewState": "AgIAANEAAABgZmZmZmYrwNkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:41:36.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormSettings.cs",
+              "RelativeDocumentMoniker": "FormSettings.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormSettings.cs",
+              "RelativeToolTip": "FormSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:30:52.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormSettings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormSettings.cs",
+              "RelativeDocumentMoniker": "FormSettings.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormSettings.cs [Design]",
+              "RelativeToolTip": "FormSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:20:29.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsCurrency.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsCurrency.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer_BankProject\\clsCurrency.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsCurrency.cs",
+              "RelativeToolTip": "..\\BussinessLayer_BankProject\\clsCurrency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:55:39.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormAddEditUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormAddEditUser.cs",
+              "RelativeDocumentMoniker": "FormAddEditUser.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormAddEditUser.cs [Design]",
+              "RelativeToolTip": "FormAddEditUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:24:47.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormCurrencyCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormCurrencyCalculator.cs",
+              "RelativeDocumentMoniker": "FormCurrencyCalculator.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormCurrencyCalculator.cs",
+              "RelativeToolTip": "FormCurrencyCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:27:47.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsCurrencyDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsCurrencyDAL.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_BankProject\\clsCurrencyDAL.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsCurrencyDAL.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_BankProject\\clsCurrencyDAL.cs",
+              "ViewState": "AgIAACQAAABAZmZmZuYUwEkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:56:10.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormShowCurreciesList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormShowCurreciesList.cs",
+              "RelativeDocumentMoniker": "FormShowCurreciesList.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormShowCurreciesList.cs [Design]",
+              "RelativeToolTip": "FormShowCurreciesList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:10:23.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormCurrencyCalculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormCurrencyCalculator.cs",
+              "RelativeDocumentMoniker": "FormCurrencyCalculator.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormCurrencyCalculator.cs [Design]",
+              "RelativeToolTip": "FormCurrencyCalculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:12:47.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormShowCurreciesList.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormShowCurreciesList.cs",
+              "RelativeDocumentMoniker": "FormShowCurreciesList.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormShowCurreciesList.cs",
+              "RelativeToolTip": "FormShowCurreciesList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:13:52.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormTrans.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTrans.cs",
+              "RelativeDocumentMoniker": "FormTrans.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTrans.cs [Design]",
+              "RelativeToolTip": "FormTrans.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:30:53.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormWithdrawDepositConfirm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormWithdrawDepositConfirm.cs",
+              "RelativeDocumentMoniker": "FormWithdrawDepositConfirm.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormWithdrawDepositConfirm.cs [Design]",
+              "RelativeToolTip": "FormWithdrawDepositConfirm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:34:22.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormMainMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormMainMenu.Designer.cs",
+              "RelativeDocumentMoniker": "FormMainMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormMainMenu.Designer.cs",
+              "RelativeToolTip": "FormMainMenu.Designer.cs",
+              "ViewState": "AgIAABQAAAAAZGZmZmYgwEMBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:38:00.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormSettings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormSettings.Designer.cs",
+              "RelativeDocumentMoniker": "FormSettings.Designer.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormSettings.Designer.cs",
+              "RelativeToolTip": "FormSettings.Designer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAhwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T02:06:18.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormMangeUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormMangeUsers.cs",
+              "RelativeDocumentMoniker": "FormMangeUsers.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormMangeUsers.cs [Design]",
+              "RelativeToolTip": "FormMangeUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:29:19.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormMangeUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormMangeUsers.cs",
+              "RelativeDocumentMoniker": "FormMangeUsers.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormMangeUsers.cs",
+              "RelativeToolTip": "FormMangeUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:39:00.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormUserLogs.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormUserLogs.cs",
+              "RelativeDocumentMoniker": "FormUserLogs.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormUserLogs.cs",
+              "RelativeToolTip": "FormUserLogs.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:49:48.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "clsClientDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsClientDAL.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_BankProject\\clsClientDAL.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsClientDAL.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_BankProject\\clsClientDAL.cs",
+              "ViewState": "AgIAAAoAAAAAmJmZmZkhwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:54:30.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormUserLogs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormUserLogs.cs",
+              "RelativeDocumentMoniker": "FormUserLogs.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormUserLogs.cs [Design]",
+              "RelativeToolTip": "FormUserLogs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:46:17.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "clsTransactionDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsTransactionDAL.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_BankProject\\clsTransactionDAL.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\DataAccessLayer_BankProject\\clsTransactionDAL.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_BankProject\\clsTransactionDAL.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:33:16.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormTransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTransactionType.cs",
+              "RelativeDocumentMoniker": "FormTransactionType.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTransactionType.cs",
+              "RelativeToolTip": "FormTransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:19:12.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormTransLogs.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTransLogs.cs",
+              "RelativeDocumentMoniker": "FormTransLogs.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTransLogs.cs",
+              "RelativeToolTip": "FormTransLogs.cs",
+              "ViewState": "AgIAAAkAAABgZmZmZmYkwCAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:59:18.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "clsTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsTransaction.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer_BankProject\\clsTransaction.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsTransaction.cs",
+              "RelativeToolTip": "..\\BussinessLayer_BankProject\\clsTransaction.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:41:29.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormTransLogs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTransLogs.cs",
+              "RelativeDocumentMoniker": "FormTransLogs.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTransLogs.cs [Design]",
+              "RelativeToolTip": "FormTransLogs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:47:33.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FormTransactionType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTransactionType.cs",
+              "RelativeDocumentMoniker": "FormTransactionType.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTransactionType.cs [Design]",
+              "RelativeToolTip": "FormTransactionType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:14:47.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormTrans.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTrans.cs",
+              "RelativeDocumentMoniker": "FormTrans.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormTrans.cs",
+              "RelativeToolTip": "FormTrans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:00:22.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FormWithdrawDepositConfirm.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormWithdrawDepositConfirm.cs",
+              "RelativeDocumentMoniker": "FormWithdrawDepositConfirm.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormWithdrawDepositConfirm.cs",
+              "RelativeToolTip": "FormWithdrawDepositConfirm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:57:26.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FormWithdrawDeposit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormWithdrawDeposit.cs",
+              "RelativeDocumentMoniker": "FormWithdrawDeposit.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormWithdrawDeposit.cs [Design]",
+              "RelativeToolTip": "FormWithdrawDeposit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:09:38.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FormWithdrawDeposit.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormWithdrawDeposit.cs",
+              "RelativeDocumentMoniker": "FormWithdrawDeposit.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormWithdrawDeposit.cs",
+              "RelativeToolTip": "FormWithdrawDeposit.cs",
+              "ViewState": "AgIAAAwAAADAMjMzMzMlwD0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:40:09.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FormClientInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormClientInfo.cs",
+              "RelativeDocumentMoniker": "FormClientInfo.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormClientInfo.cs",
+              "RelativeToolTip": "FormClientInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:17:43.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormUserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormUserInfo.cs",
+              "RelativeDocumentMoniker": "FormUserInfo.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormUserInfo.cs",
+              "RelativeToolTip": "FormUserInfo.cs",
+              "ViewState": "AgIAACEAAAAwMzMzMzMnwCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:31:59.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FormUserInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormUserInfo.cs",
+              "RelativeDocumentMoniker": "FormUserInfo.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\FormUserInfo.cs [Design]",
+              "RelativeToolTip": "FormUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:49:30.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "clsValidtion.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clsValidtion.cs",
+              "RelativeDocumentMoniker": "clsValidtion.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\Bank_Mangment_System\\clsValidtion.cs",
+              "RelativeToolTip": "clsValidtion.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:46:52.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "clsEnryption.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsEnryption.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer_BankProject\\clsEnryption.cs",
+              "ToolTip": "C:\\Users\\Laptop Home\\Desktop\\wael\\C# controls\\BussinessLayer_BankProject\\clsEnryption.cs",
+              "RelativeToolTip": "..\\BussinessLayer_BankProject\\clsEnryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:27:31.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

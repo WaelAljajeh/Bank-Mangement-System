@@ -1,0 +1,9 @@
+C:\Users\Laptop Home\Desktop\wael\C# controls\BussinessLayer_BankProject\obj\Debug\BussinessLayer_BankProject.csproj.AssemblyReference.cache
+C:\Users\Laptop Home\Desktop\wael\C# controls\BussinessLayer_BankProject\obj\Debug\BussinessLayer_BankProject.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Home\Desktop\wael\C# controls\BussinessLayer_BankProject\bin\Debug\BussinessLayer_BankProject.dll
+C:\Users\Laptop Home\Desktop\wael\C# controls\BussinessLayer_BankProject\bin\Debug\BussinessLayer_BankProject.pdb
+C:\Users\Laptop Home\Desktop\wael\C# controls\BussinessLayer_BankProject\bin\Debug\DataAccessLayer_BankProject.dll
+C:\Users\Laptop Home\Desktop\wael\C# controls\BussinessLayer_BankProject\bin\Debug\DataAccessLayer_BankProject.pdb
+C:\Users\Laptop Home\Desktop\wael\C# controls\BussinessLayer_BankProject\obj\Debug\Bussines.533AEEFB.Up2Date
+C:\Users\Laptop Home\Desktop\wael\C# controls\BussinessLayer_BankProject\obj\Debug\BussinessLayer_BankProject.dll
+C:\Users\Laptop Home\Desktop\wael\C# controls\BussinessLayer_BankProject\obj\Debug\BussinessLayer_BankProject.pdb
